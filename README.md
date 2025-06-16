@@ -68,7 +68,7 @@ TwoClapLaunch/
 ├── requirements.txt   # Python dependencies
 └── .gitignore         # Files/folders to ignore in version control
 ```
----
+
 ---
 ㅤ
 ---
