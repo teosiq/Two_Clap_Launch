@@ -18,6 +18,7 @@ MIN_PEAK_INTERVAL   = 0.2     # Minimum interval between detected peaks in secon
 CLAP_WINDOW         = 1.5     # Time window after first clap to detect second clap in seconds
 PRE_SILENCE         = 2.0     # Required silence before the first clap in seconds
 RESET_PAUSE         = 0.1     # Pause after trigger or reset in seconds
+
 TEST_MODE           = 0       # 1 = test mode (does not actually launch the game)
 LOGGING_ENABLED     = 0       # 1 = enable console logging, 0 = disable logging
 
