@@ -2,7 +2,7 @@
 
 TwoClapLaunch is a lightweight Python tool that listens for exactly **two hand claps** and launches a **Steam game** by its Game ID. It's designed to use minimal system resources and respond quickly.
 
-> **Note:** This README was generated with assistance from ChatGPT. Please verify all instructions and settings for accuracy.
+> **Note:** This project was created by a novice Python programmer with a little help from ChatGPT. If you find any inaccuracies or errors in the code, please let me know on GitHub or, better yet, on Telegram at t.me/neosury
 
 ---
 
@@ -69,7 +69,17 @@ TwoClapLaunch/
 └── .gitignore         # Files/folders to ignore in version control
 ```
 
+
+
+
+
+
 ---
+
+
+
+
+
 
 # TwoClapLaunch (Русский)
 
