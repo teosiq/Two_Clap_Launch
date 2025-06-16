@@ -69,11 +69,11 @@ TwoClapLaunch/
 └── .gitignore         # Files/folders to ignore in version control
 ```
 ---
+---
 ㅤ
+---
 ㅤ
-ㅤ
-ㅤ
-ㅤ
+---
 ---
 # 🇷🇺 TwoClapLaunch
 
@@ -144,7 +144,4 @@ TwoClapLaunch/
 ├── main.py            # Основной скрипт
 ├── requirements.txt   # Зависимости Python
 └── .gitignore         # Файлы/папки для игнорирования в Git
-```
-
-```
 ```
