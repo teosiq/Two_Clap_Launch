@@ -68,7 +68,7 @@ LOGGING_ENABLED = 1       # 1 = enable console logs, 0 = disable
 TwoClapLaunch/
 ├── main.py            # Main detection script
 ├── requirements.txt   # Python dependencies
-└── .gitignore         # Files/folders to ignore in version control
+└── ...
 ```
 ---
 ㅤ
@@ -147,5 +147,5 @@ LOGGING_ENABLED = 1       # 1 = включить логи, 0 = отключит�
 TwoClapLaunch/
 ├── main.py            # Основной скрипт
 ├── requirements.txt   # Зависимости Python
-└── .gitignore         # Файлы/папки для игнорирования в Git
+└── ...
 ```
