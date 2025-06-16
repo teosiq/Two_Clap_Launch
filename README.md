@@ -1,3 +1,5 @@
+🌎 languages: English and Russian(below)
+
 # 🇺🇸 TwoClapLaunch
 
 TwoClapLaunch is a lightweight Python tool that listens for exactly **two hand claps** and launches a **Steam game** by its Game ID. It's designed to use minimal system resources and respond quickly.
@@ -70,7 +72,6 @@ TwoClapLaunch/
 ```
 
 ---
-ㅤ
 ---
 ㅤ
 ---
