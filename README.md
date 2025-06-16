@@ -1,4 +1,3 @@
-````markdown
 # TwoClapLaunch
 
 TwoClapLaunch is a lightweight Python tool that listens for exactly **two hand claps** and launches a **Steam game** by its Game ID. It's designed to use minimal system resources and respond quickly.
@@ -35,7 +34,7 @@ pip install -r requirements.txt
 
 2. Set your desired `GAME_ID` (e.g. Dota 2 is `570`)
 
-3. (Optional) Enable logging with `LOGGING = 1`
+3. (Optional) Enable logging with `LOGGING_ENABLED = 1`
 
 4. Run the program:
 
@@ -72,7 +71,7 @@ TwoClapLaunch/
 
 ---
 
-# TwoClapLaunch
+# TwoClapLaunch (Русский)
 
 **TwoClapLaunch** — это лёгкий инструмент на Python, который слушает микрофон и запускает **игру в Steam по её ID**, если пользователь хлопает **ровно два раза**. Оптимизирован для минимальной нагрузки на систему.
 
@@ -106,11 +105,11 @@ pip install -r requirements.txt
 
 1. Откройте `main.py`
 
-2. Задайте `GAME_ID` (например, для Dota 2 — `570`)
+2. Укажите нужный `GAME_ID` (например, для Dota 2 — `570`)
 
 3. (Необязательно) Включите логирование: `LOGGING_ENABLED = 1`
 
-4. Запустите:
+4. Запустите программу:
 
    ```bash
    python main.py
